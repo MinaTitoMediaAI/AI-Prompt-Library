@@ -1,7 +1,6 @@
 # 🤖 AI Prompt Library
 
-A free collection of high-quality prompts for ChatGPT, Gemini, Claude, Copilot, and other AI tools.
-
+A professional collection of AI prompts designed to improve productivity, creativity, content creation, programming, business, and automation.
 ---
 
 ## 📖 About
